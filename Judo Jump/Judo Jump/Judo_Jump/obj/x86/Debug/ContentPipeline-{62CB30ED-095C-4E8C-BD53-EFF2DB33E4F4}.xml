@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>CutsceneFont.spritefont</Source>
+      <Name>CutsceneFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TempFont.spritefont</Source>
+      <Name>TempFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>StartScreenFont.spritefont</Source>
+      <Name>StartScreenFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelEndScreen\levelEndFont.spritefont</Source>
+      <Name>LevelEndScreen\levelEndFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelEndScreen\levelEndFont.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Text.spritefont</Source>
+      <Name>Menu\Text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\Text.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>White Pixel.png</Source>
+      <Name>White Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Platforms\Platform1.png</Source>
+      <Name>Platforms\Platform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Platforms\Platform2.png</Source>
+      <Name>Platforms\Platform2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Platforms\Platform3.png</Source>
+      <Name>Platforms\Platform3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cutscenes\Cutscene1.png</Source>
+      <Name>Cutscenes\Cutscene1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cutscenes\Cutscene2-Part1.png</Source>
+      <Name>Cutscenes\Cutscene2-Part1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cutscenes\Cutscene2-Part2.png</Source>
+      <Name>Cutscenes\Cutscene2-Part2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cutscenes\Cutscene2-Part3.png</Source>
+      <Name>Cutscenes\Cutscene2-Part3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cutscenes\Cutscene3.png</Source>
+      <Name>Cutscenes\Cutscene3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen\Game Controls Icon.png</Source>
+      <Name>Start Screen\Game Controls Icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen\Play Button.png</Source>
+      <Name>Start Screen\Play Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen\Right Arrow.png</Source>
+      <Name>Start Screen\Right Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start Screen\Title Image.jpg</Source>
+      <Name>Start Screen\Title Image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemySpriteSheet.png</Source>
+      <Name>EnemySpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerSpriteSheet.png</Source>
+      <Name>PlayerSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>coinssprite.png</Source>
+      <Name>coinssprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\coinssprite.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\rectangle.png</Source>
+      <Name>Menu\rectangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\rectangle.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelBackground.png</Source>
+      <Name>LevelBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelBackground.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Objects\Spike.png</Source>
+      <Name>Objects\Spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bossspritesheet.png</Source>
+      <Name>bossspritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\bossspritesheet.xnb</Output>
+      <Time>2022-05-11T19:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Cutscenes\Cutscene Music.mp3</Source>
+      <Name>Cutscenes\Cutscene Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb</Output>
+      <Extra>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma</Extra>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Dash.wav</Source>
+      <Name>Sound Effects\Dash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Dash.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Walk.wav</Source>
+      <Name>Sound Effects\Walk</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Walk.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\fireball.wav</Source>
+      <Name>Sound Effects\fireball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\fireball.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\kick.wav</Source>
+      <Name>Sound Effects\kick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\kick.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\punch.wav</Source>
+      <Name>Sound Effects\punch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\punch.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\teleport.wav</Source>
+      <Name>Sound Effects\teleport</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\teleport.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\tikispike.wav</Source>
+      <Name>Sound Effects\tikispike</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\tikispike.xnb</Output>
+      <Time>2022-05-11T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Coins.wav</Source>
+      <Name>Sound Effects\Coins</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Coins.xnb</Output>
+      <Time>2022-05-11T20:37:14-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{62CB30ED-095C-4E8C-BD53-EFF2DB33E4F4}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_JumpContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-11-02T08:19:10.8149483-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,355 @@
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.exe
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.pdb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.csprojResolveAssemblyReference.cache
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.exe
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.pdb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level1.txt
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level1.txt
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.exe
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.pdb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.csprojResolveAssemblyReference.cache
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.exe
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.pdb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level2.txt
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level2.txt
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level1.txt
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level2.txt
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.exe
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.pdb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.csprojResolveAssemblyReference.cache
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.exe
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.pdb
+C:\Users\robin\Downloads\Judo Jump-20220406T021806Z-001\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\coinssprite.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\coinssprite.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\Text.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\rectangle.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelBackground.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelEndScreen\levelEndFont.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelEndScreen\levelEndFont.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\Text.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\rectangle.xnb
+C:\Users\262645\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelBackground.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level3.txt
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level4.txt
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\bossspritesheet.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\dash.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Walk.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.exe
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.pdb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelEndScreen\levelEndFont.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\Text.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\coinssprite.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\rectangle.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelBackground.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\bossspritesheet.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Dash.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Walk.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level1.txt
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level2.txt
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level3.txt
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level4.txt
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.exe
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.pdb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\fireball.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\kick.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\punch.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\teleport.xnb
+C:\Users\Raul\Desktop\Master 11\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\tikispike.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelEndScreen\levelEndFont.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\Text.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\coinssprite.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\rectangle.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelBackground.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\bossspritesheet.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Dash.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Walk.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\fireball.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\kick.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\punch.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\teleport.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\tikispike.xnb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level1.txt
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level2.txt
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level4.txt
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.exe
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.pdb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.exe
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.pdb
+C:\Users\Raul\Desktop\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level3.txt
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelEndScreen\levelEndFont.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\Text.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\coinssprite.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\rectangle.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelBackground.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\bossspritesheet.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Dash.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Walk.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\fireball.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\kick.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\punch.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\teleport.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\tikispike.xnb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level1.txt
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level2.txt
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level3.txt
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level4.txt
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.exe
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.pdb
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.csprojResolveAssemblyReference.cache
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.exe
+C:\Users\robin\Downloads\final\final\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.pdb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\fireball.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\kick.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\punch.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\teleport.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\tikispike.xnb
+C:\Users\robin\Desktop\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Coins.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.exe
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\obj\x86\Debug\Judo_Jump.pdb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\CutsceneFont.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\TempFont.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\StartScreenFont.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelEndScreen\levelEndFont.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\Text.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\White Pixel.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform1.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform2.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Platforms\Platform3.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene1.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part1.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part2.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene2-Part3.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene3.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Game Controls Icon.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Play Button.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Right Arrow.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Start Screen\Title Image.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\EnemySpriteSheet.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\PlayerSpriteSheet.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\coinssprite.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Menu\rectangle.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\LevelBackground.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Objects\Spike.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\bossspritesheet.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Dash.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Walk.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\fireball.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\kick.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\punch.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\teleport.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\tikispike.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Sound Effects\Coins.xnb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Cutscenes\Cutscene Music.wma
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level1.txt
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level2.txt
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level3.txt
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Content\Levels\Level4.txt
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.exe
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Judo_Jump.pdb
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Raul\Desktop\FINAL VERSION Master v13\Judo Jump\Judo Jump\Judo_Jump\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml

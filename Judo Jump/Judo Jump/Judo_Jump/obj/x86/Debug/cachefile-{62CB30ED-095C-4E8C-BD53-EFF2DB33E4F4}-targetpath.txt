@@ -1,0 +1,39 @@
+Content\CutsceneFont.xnb
+Content\TempFont.xnb
+Content\StartScreenFont.xnb
+Content\LevelEndScreen\levelEndFont.xnb
+Content\Menu\Text.xnb
+Content\White Pixel.xnb
+Content\Platforms\Platform1.xnb
+Content\Platforms\Platform2.xnb
+Content\Platforms\Platform3.xnb
+Content\Cutscenes\Cutscene1.xnb
+Content\Cutscenes\Cutscene2-Part1.xnb
+Content\Cutscenes\Cutscene2-Part2.xnb
+Content\Cutscenes\Cutscene2-Part3.xnb
+Content\Cutscenes\Cutscene3.xnb
+Content\Start Screen\Game Controls Icon.xnb
+Content\Start Screen\Play Button.xnb
+Content\Start Screen\Right Arrow.xnb
+Content\Start Screen\Title Image.xnb
+Content\EnemySpriteSheet.xnb
+Content\PlayerSpriteSheet.xnb
+Content\coinssprite.xnb
+Content\Menu\rectangle.xnb
+Content\LevelBackground.xnb
+Content\Objects\Spike.xnb
+Content\bossspritesheet.xnb
+Content\Cutscenes\Cutscene Music.xnb
+Content\Cutscenes\Cutscene Music.wma
+Content\Sound Effects\Dash.xnb
+Content\Sound Effects\Walk.xnb
+Content\Sound Effects\fireball.xnb
+Content\Sound Effects\kick.xnb
+Content\Sound Effects\punch.xnb
+Content\Sound Effects\teleport.xnb
+Content\Sound Effects\tikispike.xnb
+Content\Sound Effects\Coins.xnb
+Content\Levels\Level1.txt
+Content\Levels\Level2.txt
+Content\Levels\Level3.txt
+Content\Levels\Level4.txt
